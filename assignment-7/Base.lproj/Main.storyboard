@@ -75,7 +75,7 @@
         <!--Tab Bar Controller-->
         <scene sceneID="rlh-JK-6ca">
             <objects>
-                <tabBarController id="KpJ-s3-xzF" customClass="TabBarController" customModule="assignment_7" customModuleProvider="target" sceneMemberID="viewController">
+                <tabBarController id="KpJ-s3-xzF" sceneMemberID="viewController">
                     <tabBar key="tabBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="qoC-CR-cgs">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="49"/>
                         <autoresizingMask key="autoresizingMask"/>

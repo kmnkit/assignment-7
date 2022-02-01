@@ -14,7 +14,6 @@
 		90D182FE27A94530001EBF2A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 90D182FC27A94530001EBF2A /* LaunchScreen.storyboard */; };
 		90D1830627A94792001EBF2A /* AddViewContainer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90D1830527A94792001EBF2A /* AddViewContainer.swift */; };
 		90D1830827A947F0001EBF2A /* SubtractViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90D1830727A947F0001EBF2A /* SubtractViewController.swift */; };
-		90D1830A27A94A1A001EBF2A /* TabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90D1830927A94A1A001EBF2A /* TabBarController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,7 +26,6 @@
 		90D182FF27A94530001EBF2A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		90D1830527A94792001EBF2A /* AddViewContainer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddViewContainer.swift; sourceTree = "<group>"; };
 		90D1830727A947F0001EBF2A /* SubtractViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubtractViewController.swift; sourceTree = "<group>"; };
-		90D1830927A94A1A001EBF2A /* TabBarController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,7 +66,6 @@
 				90D182FA27A94530001EBF2A /* Assets.xcassets */,
 				90D182FC27A94530001EBF2A /* LaunchScreen.storyboard */,
 				90D182FF27A94530001EBF2A /* Info.plist */,
-				90D1830927A94A1A001EBF2A /* TabBarController.swift */,
 			);
 			path = "assignment-7";
 			sourceTree = "<group>";
@@ -147,7 +144,6 @@
 				90D1830627A94792001EBF2A /* AddViewContainer.swift in Sources */,
 				90D182F227A9452E001EBF2A /* AppDelegate.swift in Sources */,
 				90D1830827A947F0001EBF2A /* SubtractViewController.swift in Sources */,
-				90D1830A27A94A1A001EBF2A /* TabBarController.swift in Sources */,
 				90D182F427A9452E001EBF2A /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
